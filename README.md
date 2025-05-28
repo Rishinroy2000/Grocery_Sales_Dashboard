@@ -47,7 +47,7 @@ To analyze grocery sales data from Tamil Nadu with insights into:
 
 ## 🗂 Data Source
 
-- 📄 [Download the dataset from Kaggle](https://drive.google.com/file/d/1Vx-Ibn11HKofkJasjMZFyigemSu7TOeB/view)
+- 📄 [Download the dataset](https://drive.google.com/file/d/1Vx-Ibn11HKofkJasjMZFyigemSu7TOeB/view)
 
 ---
 
